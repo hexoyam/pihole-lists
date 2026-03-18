@@ -4,157 +4,82 @@
 # ============================================
 
 # === Romanian betting sites ===
-0.0.0.0 betano.ro
-0.0.0.0 www.betano.ro
-0.0.0.0 superbet.ro
-0.0.0.0 www.superbet.ro
-0.0.0.0 unibet.ro
-0.0.0.0 www.unibet.ro
-0.0.0.0 netbet.ro
-0.0.0.0 www.netbet.ro
-0.0.0.0 fortuna.ro
-0.0.0.0 www.fortuna.ro
-0.0.0.0 winmasters.ro
-0.0.0.0 www.winmasters.ro
-0.0.0.0 mozzartbet.ro
-0.0.0.0 www.mozzartbet.ro
-0.0.0.0 stanleybet.ro
-0.0.0.0 www.stanleybet.ro
-0.0.0.0 maxbet.ro
-0.0.0.0 www.maxbet.ro
-0.0.0.0 efbet.ro
-0.0.0.0 www.efbet.ro
-0.0.0.0 admiralbet.ro
-0.0.0.0 www.admiralbet.ro
-0.0.0.0 admiral.ro
-0.0.0.0 www.admiral.ro
-0.0.0.0 magnumbet.ro
-0.0.0.0 www.magnumbet.ro
-0.0.0.0 napoleongames.ro
-0.0.0.0 www.napoleongames.ro
-0.0.0.0 casapariurilor.ro
-0.0.0.0 www.casapariurilor.ro
-0.0.0.0 casa-pariurilor.ro
-0.0.0.0 www.casa-pariurilor.ro
-0.0.0.0 favbet.ro
-0.0.0.0 www.favbet.ro
-0.0.0.0 totalbet.ro
-0.0.0.0 www.totalbet.ro
-0.0.0.0 luckia.ro
-0.0.0.0 www.luckia.ro
-0.0.0.0 excelbet.ro
-0.0.0.0 www.excelbet.ro
-0.0.0.0 powerbet.ro
-0.0.0.0 www.powerbet.ro
-0.0.0.0 win2.ro
-0.0.0.0 www.win2.ro
-0.0.0.0 don.ro
-0.0.0.0 www.don.ro
-0.0.0.0 eldorado.ro
-0.0.0.0 www.eldorado.ro
-0.0.0.0 goldenbet.ro
-0.0.0.0 www.goldenbet.ro
-0.0.0.0 ligabet.ro
-0.0.0.0 www.ligabet.ro
-0.0.0.0 premier-bet.ro
-0.0.0.0 www.premier-bet.ro
-0.0.0.0 winbet.ro
-0.0.0.0 www.winbet.ro
-0.0.0.0 vlad.casino
-0.0.0.0 www.vlad.casino
-0.0.0.0 cazino365.ro
-0.0.0.0 www.cazino365.ro
-0.0.0.0 pacanele.ro
-0.0.0.0 www.pacanele.ro
+betano.ro
+superbet.ro
+unibet.ro
+netbet.ro
+fortuna.ro
+winmasters.ro
+mozzartbet.ro
+stanleybet.ro
+maxbet.ro
+efbet.ro
+admiralbet.ro
+admiral.ro
+magnumbet.ro
+napoleongames.ro
+casapariurilor.ro
+casa-pariurilor.ro
+favbet.ro
+totalbet.ro
+luckia.ro
+excelbet.ro
+powerbet.ro
+win2.ro
+don.ro
+eldorado.ro
+goldenbet.ro
+ligabet.ro
+premier-bet.ro
+winbet.ro
+vlad.casino
+cazino365.ro
+pacanele.ro
 
 # === International betting sites present in Romania ===
-0.0.0.0 bet365.ro
-0.0.0.0 www.bet365.ro
-0.0.0.0 bet365.com
-0.0.0.0 www.bet365.com
-0.0.0.0 888sport.ro
-0.0.0.0 www.888sport.ro
-0.0.0.0 888casino.ro
-0.0.0.0 www.888casino.ro
-0.0.0.0 888poker.ro
-0.0.0.0 www.888poker.ro
-0.0.0.0 888.ro
-0.0.0.0 www.888.ro
-0.0.0.0 williamhill.ro
-0.0.0.0 www.williamhill.ro
-0.0.0.0 bwin.ro
-0.0.0.0 www.bwin.ro
-0.0.0.0 betfair.ro
-0.0.0.0 www.betfair.ro
-0.0.0.0 betfair.com
-0.0.0.0 www.betfair.com
-0.0.0.0 pokerstars.ro
-0.0.0.0 www.pokerstars.ro
-0.0.0.0 pokerstars.com
-0.0.0.0 www.pokerstars.com
-0.0.0.0 marathonbet.ro
-0.0.0.0 www.marathonbet.ro
-0.0.0.0 sportingbet.ro
-0.0.0.0 www.sportingbet.ro
-0.0.0.0 betsson.ro
-0.0.0.0 www.betsson.ro
-0.0.0.0 betway.ro
-0.0.0.0 www.betway.ro
-0.0.0.0 leovegas.ro
-0.0.0.0 www.leovegas.ro
-0.0.0.0 mrgreen.ro
-0.0.0.0 www.mrgreen.ro
-0.0.0.0 casumo.ro
-0.0.0.0 www.casumo.ro
-0.0.0.0 rizk.ro
-0.0.0.0 www.rizk.ro
-0.0.0.0 pinnacle.ro
-0.0.0.0 www.pinnacle.ro
-0.0.0.0 interwetten.ro
-0.0.0.0 www.interwetten.ro
-0.0.0.0 tipico.ro
-0.0.0.0 www.tipico.ro
-0.0.0.0 1xbet.ro
-0.0.0.0 www.1xbet.ro
-0.0.0.0 1xbet.com
-0.0.0.0 www.1xbet.com
-0.0.0.0 parimatch.ro
-0.0.0.0 www.parimatch.ro
-0.0.0.0 melbet.ro
-0.0.0.0 www.melbet.ro
-0.0.0.0 betwinner.ro
-0.0.0.0 www.betwinner.ro
-0.0.0.0 22bet.ro
-0.0.0.0 www.22bet.ro
-0.0.0.0 vbet.ro
-0.0.0.0 www.vbet.ro
-0.0.0.0 mostbet.ro
-0.0.0.0 www.mostbet.ro
-0.0.0.0 betsafe.ro
-0.0.0.0 www.betsafe.ro
-0.0.0.0 sbobet.ro
-0.0.0.0 www.sbobet.ro
-0.0.0.0 lvbet.ro
-0.0.0.0 www.lvbet.ro
-0.0.0.0 nordicbet.ro
-0.0.0.0 www.nordicbet.ro
-0.0.0.0 coolbet.ro
-0.0.0.0 www.coolbet.ro
-0.0.0.0 olybet.ro
-0.0.0.0 www.olybet.ro
-0.0.0.0 betvictor.ro
-0.0.0.0 www.betvictor.ro
-0.0.0.0 winamax.ro
-0.0.0.0 www.winamax.ro
-0.0.0.0 sunmaker.ro
-0.0.0.0 www.sunmaker.ro
+bet365.ro
+bet365.com
+888sport.ro
+888casino.ro
+888poker.ro
+888.ro
+williamhill.ro
+bwin.ro
+betfair.ro
+betfair.com
+pokerstars.ro
+pokerstars.com
+marathonbet.ro
+sportingbet.ro
+betsson.ro
+betway.ro
+leovegas.ro
+mrgreen.ro
+casumo.ro
+rizk.ro
+pinnacle.ro
+interwetten.ro
+tipico.ro
+1xbet.ro
+1xbet.com
+parimatch.ro
+melbet.ro
+betwinner.ro
+22bet.ro
+vbet.ro
+mostbet.ro
+betsafe.ro
+sbobet.ro
+lvbet.ro
+nordicbet.ro
+coolbet.ro
+olybet.ro
+betvictor.ro
+winamax.ro
+sunmaker.ro
 
 # === Tips / prediction sites ===
-0.0.0.0 pariuri1x2.ro
-0.0.0.0 www.pariuri1x2.ro
-0.0.0.0 sansapariuri.ro
-0.0.0.0 www.sansapariuri.ro
-0.0.0.0 tipsteri.ro
-0.0.0.0 www.tipsteri.ro
-0.0.0.0 pronosticuri.ro
-0.0.0.0 www.pronosticuri.ro
+pariuri1x2.ro
+sansapariuri.ro
+tipsteri.ro
+pronosticuri.ro
